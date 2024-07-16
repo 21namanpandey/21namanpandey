@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 👋, I'm Naman Pandey</h1>
+# <h1 align="center">Hello World 👋, I'm Naman Pandey</h1>
 
 # 💫 About Me:
 🌱 Aspiring Web Development .<br><br>📫 How to reach me 2492004namanpandey@gmail.com<br><br>⚡ Fun fact I love exploring new thing 🚀🔍
