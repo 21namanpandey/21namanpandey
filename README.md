@@ -1,14 +1,14 @@
 # Naman Pandey
 
 > **Full-Stack Software Engineer** specializing in distributed systems, real-time architectures, and resilient AI pipelines.  
-> 🎓 **B.Tech CSE (2022–2026)** | 🏆 **GATE 2025 CS Qualified** | ⚡ **500+ LeetCode Solved**
+> 🎓 **B.Tech CSE (2022–2026)** | 📱 **Production Web & Mobile Systems** | ⚡ **500+ LeetCode Solved**
 
 ---
 
 ### Background & Credentials
 
 - **Academics:** B.Tech in Computer Science and Engineering, Rajkiya Engineering College (AKTU), 2022 – 2026 (`CGPA: 8.24`)
-- **GATE CS:** Qualified **GATE 2025 in Computer Science & Engineering** *(Algorithms, Operating Systems, DBMS, Computer Networks, System Architecture)*
+- **CS Fundamentals:** Strong foundation in Algorithms, Operating Systems, Concurrency, DBMS, Computer Networks, and System Architecture
 - **Problem Solving:** Solved **500+ problems on [LeetCode](https://leetcode.com/21namanpandey/)** with verified 50-day and 100-day consistency badges
 - **Production Experience:** Shipped mobile gamification & real-time chat for **TaskPlanet** (`+30% retention`), re-architected institutional web infrastructure (`+65% speedup`), and built real-time queue systems for medical facilities (`-60% wait times`).
 
